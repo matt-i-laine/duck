@@ -1,2 +1,2 @@
-# duck
-Duck is a Java Annotation for Duck Typing: Implicit Implementation `a la GoLang.
+# Duck
+Duck is a Java Annotation for Duck Typing: Implicit Implementation à la GoLang.
