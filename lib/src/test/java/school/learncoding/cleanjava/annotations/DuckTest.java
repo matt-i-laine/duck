@@ -6,9 +6,9 @@ package school.learncoding.cleanjava.annotations;
 import org.testng.annotations.*;
 import static org.testng.Assert.*;
 
-public class LibraryTest {
+public class DuckTest {
     @Test public void someLibraryMethodReturnsTrue() {
-        Library classUnderTest = new Library();
+        Duck classUnderTest = new Duck();
         assertTrue(classUnderTest.someLibraryMethod(), "someLibraryMethod should return 'true'");
     }
 }

@@ -3,7 +3,7 @@
  */
 package school.learncoding.cleanjava.annotations;
 
-public class Library {
+public class Duck {
     public boolean someLibraryMethod() {
         return true;
     }
